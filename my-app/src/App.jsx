@@ -47,7 +47,7 @@ const App = () => {
         <img src="../public/Frame (8).png" alt="" />
       </div>
       <div className='section2'>
-        <img className='imgUmbrella' src="https://s3-alpha-sig.figma.com/img/912c/5065/1ee7dfc90ab9dfc51833c7ffdc5e059f?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=fxZ6nRlvdg0ayZa67NKUpDrva0jEwteY-pMc8cDV-oYDoHFz3BTM29m5FUxTDm2W9th2gAd8nqqFqYNWzit0ilICjr7qPthcbRkKb~pFKhsH~NUw4F7zayIMdKm91FpGqGKJPa77865kjWqMu7sjBNWn-6OhaxY~5XtUGwJb~a9-L202lJHMVWOuPeaai3fgiJlTdbq95JKrDtE8oY1qpzeQmag~IsHbehtLd9ppUHwDl2KSfmfEo8ApuQBWkWiMDAPo8mowAoF1btxLd6~4G-7rUlL7tVd1qlygYZAH8qD2dMsEBaGTxl8Hb-LHTJMsdIrxdM2eBPDeSDRNl7iKfA__" alt="" />
+        <img className='imgUmbrella' src="../public/Rectangle.png" alt="" />
         <span className='span'>Top-Rated Term Life Insurance</span>
         <h2 className='h2'>You’re in safe hands</h2>
         <p className='p'>We've partnered with, [insert underwriter], one of the world’s largest, most trusted insurance companies. This means we can ensure reliability in paying Claims.</p>
